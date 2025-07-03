@@ -152,7 +152,7 @@ async def start(client: Client, msg: Message):
     await asyncio.sleep(1)
     await start_message.edit_text(
         Data.START.format(msg.from_user.mention) +
-        "Checking status Ok... Command Nhi Bataunga **Bot Made BY 🅂🄿🄸🄳🅈™👨🏻‍💻**🔍\n\n"
+        "Checking status Ok... Command Nhi Bataunga **Bot Made BY @Professor750bot™👨🏻‍💻**🔍\n\n"
         "Progress:[🟩🟩🟩🟩🟩🟩🟩🟩🟩] 100%\n\n"
     )
 
@@ -163,7 +163,7 @@ async def restart_handler(_, m):
     os.execl(sys.executable, sys.executable, *sys.argv)
 
 
-@bot.on_message(filters.command(["king","upload"]) )
+@bot.on_message(filters.command(["yash","thakur"]) )
 async def txt_handler(bot: Client, m: Message):
     await m.delete()
     
