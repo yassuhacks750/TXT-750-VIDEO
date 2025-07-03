@@ -32,7 +32,7 @@
 ### 🚀 Deploy to Render
 
 #### **1-Click Deploy:**
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/yourusername/TXT-TO-VIDEO)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/yassuhacks750/TXT-750-VIDEO)
 
 #### **Manual Setup on Render:**
 ```bash
