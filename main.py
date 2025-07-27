@@ -38,7 +38,7 @@ photo = "https://www.imghippo.com/i/LGNY7416opM.png"
 cpphoto = "https://www.imghippo.com/i/LGNY7416opM.png"
 appxzip = "https://www.imghippo.com/i/LGNY7416opM.png"
 my_name = "@Professor750bot"
-CHANNEL_ID = "-1002502203613"##change it with your channel 🆔 
+CHANNEL_ID = "--1002477114210"##change it with your channel 🆔 
 
 cookies_file_path = os.getenv("COOKIES_FILE_PATH", "youtube_cookies.txt")
 
